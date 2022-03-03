@@ -1,1 +1,14 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+
+body{
+  margin: 0;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+}
+.excuse-container{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+}
